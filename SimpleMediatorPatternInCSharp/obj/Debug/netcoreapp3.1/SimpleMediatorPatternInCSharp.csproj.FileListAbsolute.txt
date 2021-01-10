@@ -1,0 +1,13 @@
+C:\Users\Altamir Dias Cassian\source\repos\SimpleMediatorPatternInCSharp\SimpleMediatorPatternInCSharp\bin\Debug\netcoreapp3.1\SimpleMediatorPatternInCSharp.exe
+C:\Users\Altamir Dias Cassian\source\repos\SimpleMediatorPatternInCSharp\SimpleMediatorPatternInCSharp\bin\Debug\netcoreapp3.1\SimpleMediatorPatternInCSharp.deps.json
+C:\Users\Altamir Dias Cassian\source\repos\SimpleMediatorPatternInCSharp\SimpleMediatorPatternInCSharp\bin\Debug\netcoreapp3.1\SimpleMediatorPatternInCSharp.runtimeconfig.json
+C:\Users\Altamir Dias Cassian\source\repos\SimpleMediatorPatternInCSharp\SimpleMediatorPatternInCSharp\bin\Debug\netcoreapp3.1\SimpleMediatorPatternInCSharp.runtimeconfig.dev.json
+C:\Users\Altamir Dias Cassian\source\repos\SimpleMediatorPatternInCSharp\SimpleMediatorPatternInCSharp\bin\Debug\netcoreapp3.1\SimpleMediatorPatternInCSharp.dll
+C:\Users\Altamir Dias Cassian\source\repos\SimpleMediatorPatternInCSharp\SimpleMediatorPatternInCSharp\bin\Debug\netcoreapp3.1\SimpleMediatorPatternInCSharp.pdb
+C:\Users\Altamir Dias Cassian\source\repos\SimpleMediatorPatternInCSharp\SimpleMediatorPatternInCSharp\obj\Debug\netcoreapp3.1\SimpleMediatorPatternInCSharp.csprojAssemblyReference.cache
+C:\Users\Altamir Dias Cassian\source\repos\SimpleMediatorPatternInCSharp\SimpleMediatorPatternInCSharp\obj\Debug\netcoreapp3.1\SimpleMediatorPatternInCSharp.AssemblyInfoInputs.cache
+C:\Users\Altamir Dias Cassian\source\repos\SimpleMediatorPatternInCSharp\SimpleMediatorPatternInCSharp\obj\Debug\netcoreapp3.1\SimpleMediatorPatternInCSharp.AssemblyInfo.cs
+C:\Users\Altamir Dias Cassian\source\repos\SimpleMediatorPatternInCSharp\SimpleMediatorPatternInCSharp\obj\Debug\netcoreapp3.1\SimpleMediatorPatternInCSharp.csproj.CoreCompileInputs.cache
+C:\Users\Altamir Dias Cassian\source\repos\SimpleMediatorPatternInCSharp\SimpleMediatorPatternInCSharp\obj\Debug\netcoreapp3.1\SimpleMediatorPatternInCSharp.dll
+C:\Users\Altamir Dias Cassian\source\repos\SimpleMediatorPatternInCSharp\SimpleMediatorPatternInCSharp\obj\Debug\netcoreapp3.1\SimpleMediatorPatternInCSharp.pdb
+C:\Users\Altamir Dias Cassian\source\repos\SimpleMediatorPatternInCSharp\SimpleMediatorPatternInCSharp\obj\Debug\netcoreapp3.1\SimpleMediatorPatternInCSharp.genruntimeconfig.cache
